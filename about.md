@@ -7,7 +7,8 @@ title: About
 
 ## Cyber_Security_Enthusiast
 
-(nirmitshah191@gmail.com)
+nirmitshah191@gmail.com
+
 (https://www.linkedin.com/in/nirmit-shah-35822a146/)
 (https://github.com/naughtyboy)
 
@@ -51,26 +52,17 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 ```
 ## CERTIFICATES
 
-..*PenetrationTestingandEthicalHack-ing–Intershala.com
-..*Wireshark:MalwareandForensics
+- PenetrationTestingandEthicalHack-ing–Intershala.com
+- Wireshark:MalwareandForensics
 
 ## PROJECTS
 
 ### PortScannerUsingPython
 
-- MadeasimplePythonscriptusing
-    Socketslibrary
-- Thispythonscriptwilltrytoconnect
-    oneveryportyoudefineforaparticu-
-    larhost.
+- Made a simple Python script using Sockets library
+- This python script will try to connect on every port you define for a particular host.
 
-### RSADecryptorusingPython
 
-- Thissimplescripttakesthevalueof
-    p,q,e,candreturntheplaintextmes-
-    sage
-- NeedsascripttofactoriseNintoP,q
-    first
 
 ## EXPERIENCE
 
@@ -87,7 +79,7 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 
 ### CaptureTheFlag(Concetto2019)
 
-October ½ Dhanbad,India
+#### October ½ Dhanbad,India
 
 - CLCTF,aCyberSecurityeventbyCyberLabs
 - Link:https://hackerrank.com/clctf
@@ -96,33 +88,26 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 
 ### HSCTF2019(06/2019)
 
-- Participatedindividuallyandranked
+- Participated individually 
 
 ### PicoCTF2019(09/2019)
 
-- Participatedasafivememberteam(CyberLabs)and
-    ranked253.
+- Participated as a five member team(CyberLabs)and   ranked253.
 
 ## EDUCATION
 
-## Bachelor’sOfTechnologyinElectronics
+## B.Tech Electronics And Instrumentation,IIT(ISM) Dhanbad
 
-## And
-
-## Instrumentation
-
-### IITISMDhanbad
-
- June2018–May2022½ Dhanbad,Jharkhand
+- June2018–May2022 Dhanbad,Jharkhand
 
 ## Intermediate(+2)
 
-### CityInternationalSchool
+### City International School
 
- May2016–March2018½ Pune,Maharashtra
+- May2016–March2018 Pune,Maharashtra
 
 ## 10th
 
 ### AirForceSchool,9BRD
 
-–March2016 ½ Pune,Maharashtra
+- March2016 ½ Pune,Maharashtra
