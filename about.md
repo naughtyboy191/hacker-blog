@@ -7,18 +7,18 @@ title: About
 
 ## Cyber_Security_Enthusiast
 
-<nirmitshah191@gmail.com>
-<https://www.linkedin.com/in/nirmit-shah-35822a146/>
-<https://github.com/naughtyboy>
+<nirmitshah191@gmail.com><br>
+<https://www.linkedin.com/in/nirmit-shah-35822a146/><br>
+<https://github.com/naughtyboy191>
 
 ## SKILLS
 
-### ProgrammingLanguages
+### Programming Languages
 
 ```
 C C++ Python2/3 Java Bash Javascript
 ```
-### WebDevelopment
+### Web Development
 
 ```
 HTML/CSS MySQL Django
@@ -28,21 +28,21 @@ HTML/CSS MySQL Django
 ```
 Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 ```
-## CERTIFICATES
+## Certificates
 
 - PenetrationTestingandEthicalHack-ing–Intershala.com
 - Wireshark:MalwareandForensics
 
 ## PROJECTS
 
-### PortScannerUsingPython
+### Port Scanner Using Python
 
 - Made a simple Python script using Sockets library
 - This python script will try to connect on every port you define for a particular host.
 
 
 
-## EXPERIENCE
+## Experiance
 
 ## CyberSecurityDivisionMember
 
@@ -62,7 +62,7 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 - CLCTF, a CyberSecurity event by CyberLabs
 - Link:<https://hackerrank.com/clctf19>
 
-## ACHIVEMENTS
+## Achievements
 
 ### HSCTF2019(06/2019)
 
@@ -72,7 +72,7 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 
 - Participated as a five member team(CyberLabs)and   ranked253.
 
-## EDUCATION
+## Education
 
 ## B.Tech Electronics And Instrumentation,IIT(ISM) Dhanbad
 
