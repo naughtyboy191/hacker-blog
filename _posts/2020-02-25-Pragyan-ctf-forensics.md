@@ -13,26 +13,26 @@ help Mr. Robot to find the secret passkey from the file?
 
 So we are provided with a file called mrRobot.txt
 
-![](/img/p_ctf/ud/1.png) 
+![](img/p_ctf/ud/1.png) 
 
 
 Running exif tool on the image gives us
 
-![](/img/p_ctf/ud/2.png)
+![](img/p_ctf/ud/2.png)
 
 
 we can see that there is a base 64 string in Format value:U29tZSBTSEEgbWF5YmUhISEh
 
-![](/img/p_ctf/ud/3.png)
+![](img/p_ctf/ud/3.png)
 Decoding it gives us the hint to crack the hash 
 trying the hash on <https://crackstation.net/>
 
-![](/img/p_ctf/ud/4.png)
+![](img/p_ctf/ud/4.png)
 
 
 now trying the key **avium** as passphrase to steghide
 
-![](/img/p_ctf/ud/5.png)
+![](img/p_ctf/ud/5.png)
 
 so the flag is <br>
 ```
