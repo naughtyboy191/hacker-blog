@@ -33,7 +33,7 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 - PenetrationTestingandEthicalHack-ing–Intershala.com
 - Wireshark:MalwareandForensics
 
-## PROJECTS
+## Projects
 
 ### Port Scanner Using Python
 
@@ -44,7 +44,7 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 
 ## Experiance
 
-## CyberSecurityDivisionMember
+## CyberSecurity Division Member
 
 ### CyberLabs(CyberSociety,IIT-ISMDhanbad)
 
@@ -64,12 +64,12 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 
 ## Achievements
 
-### HSCTF2019(06/2019)
+### HSCTF 2019(06/2019)
 
 - Participated individually 
 
-### PicoCTF2019(09/2019)
-
+### PicoCTF 2019(09/2019)
+ 
 - Participated as a five member team(CyberLabs)and   ranked253.
 
 ## Education
@@ -86,6 +86,6 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 
 ## 10th
 
-### AirForceSchool,9BRD
-
-- March2016 ½ Pune,Maharashtra
+### Air Force School,9BRD
+ 
+- March2016 Pune,Maharashtra
