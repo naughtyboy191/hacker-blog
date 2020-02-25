@@ -7,43 +7,21 @@ title: About
 
 ## Cyber_Security_Enthusiast
 
-nirmitshah191@gmail.com
-
-(https://www.linkedin.com/in/nirmit-shah-35822a146/)
-(https://github.com/naughtyboy)
+<nirmitshah191@gmail.com>
+<https://www.linkedin.com/in/nirmit-shah-35822a146/>
+<https://github.com/naughtyboy>
 
 ## SKILLS
 
 ### ProgrammingLanguages
 
 ```
-C 
-```
-```
-C++
-```
-``` 
-Python2/3
-```
-```
-Java
-```
-```
-Bash 
-```
-```
-Javascript
+C C++ Python2/3 Java Bash Javascript
 ```
 ### WebDevelopment
 
 ```
-HTML/CSS 
-```
-```
-MySQL
- ```
-```
-Django
+HTML/CSS MySQL Django
 ```
 ### Tools
 
@@ -70,19 +48,19 @@ Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 
 ### CyberLabs(CyberSociety,IIT-ISMDhanbad)
 
-Nov2018–Present ½ Dhanbad,India
+- Nov2018–Present Dhanbad,India
 
-- CyberLabsistheinitiativeofIIT(ISM)studentson
-    thefootstepsofMITMediaLabs,MIT.
+- CyberLabs is the initiative of IIT(ISM)students on
+    the footsteps of MIT MediaLabs,MIT.
 
 ## Organizer
 
 ### CaptureTheFlag(Concetto2019)
 
-#### October ½ Dhanbad,India
+#### October 2019 Dhanbad,India
 
-- CLCTF,aCyberSecurityeventbyCyberLabs
-- Link:https://hackerrank.com/clctf
+- CLCTF, a CyberSecurity event by CyberLabs
+- Link:<https://hackerrank.com/clctf19>
 
 ## ACHIVEMENTS
 
