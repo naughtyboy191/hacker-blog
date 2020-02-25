@@ -3,47 +3,56 @@ layout: page
 title: About
 ---
 
-# NIRMITSHAH
+# Nirmit Shah
 
-## CyberSecurityEnthusiast
+## Cyber_Security_Enthusiast
 
-[ **nirmitshah191@gmail.com** Ó **(+91)7759002227** ̄ **https://www.linkedin.com/in/nirmit-shah-35822a146/**
- **https://github.com/naughtyboy**
+(nirmitshah191@gmail.com)
+(https://www.linkedin.com/in/nirmit-shah-35822a146/)
+(https://github.com/naughtyboy)
 
 ## SKILLS
 
 ### ProgrammingLanguages
 
 ```
-C C++ Python2/3 Java
+C 
 ```
 ```
-Bash Javascript
+C++
+```
+``` 
+Python2/3
+```
+```
+Java
+```
+```
+Bash 
+```
+```
+Javascript
 ```
 ### WebDevelopment
 
 ```
-HTML/CSS MySQL MongoDB
-Jquery Nodejs Flask
+HTML/CSS 
 ```
+```
+MySQL
+ ```
 ```
 Django
 ```
 ### Tools
 
 ```
-Git Kali Gimp Docker
-Wireshark Audacity Nmap
-```
-```
-BurpSuite Metasploit Ghidra
+Git Kali Gimp Docker Wireshark Audacity Nmap BurpSuite Metasploit Ghidra
 ```
 ## CERTIFICATES
 
-- PenetrationTestingandEthicalHack-
-    ing–
-    Intershala.com
-- Wireshark:MalwareandForensics
+..*PenetrationTestingandEthicalHack-ing–Intershala.com
+..*Wireshark:MalwareandForensics
 
 ## PROJECTS
 
