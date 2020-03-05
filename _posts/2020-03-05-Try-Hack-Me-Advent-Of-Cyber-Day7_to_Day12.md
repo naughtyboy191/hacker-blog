@@ -132,3 +132,24 @@ The task is Done *:)))*
 
 ## Day12(Task 17)
 
+So in this challenge we are given a zip file, on unzipping it we find the following
+
+![](img/thm_advent/49.png)
+
+
+
+### ques 1
+we need to find the md5sum of note1 file which can be done easily in the terminal :smile:
+
+![](img/thm_advent/46.png)
+
+### ques 2
+we need to decrypt the gpg file and we are given the passphrase as **25daysofchristmas**
+
+![](img/thm_advent/47.png)
+
+### ques 3 
+we need to decrypt an encrypted text file using the given private rsa key 
+here google comes to my rescue we need to use *openssl rsautl*
+
+![](img/thm_advent/48.png)
