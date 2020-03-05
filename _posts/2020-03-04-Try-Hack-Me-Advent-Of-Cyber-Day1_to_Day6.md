@@ -131,3 +131,60 @@ we get an interesting shadow.bak file which we can so reading it we find the mcs
 
 
 ![](img/thm_advent/18.png)
+
+
+## Day5(Task 10)
+This is standard **OSINT** introductory challenge
+
+we are given with an jpeg image running exiftool on it gets us the username as the creator tag in exiftool output
+
+![](img/thm_advent/19.png)
+
+Now using any osint username finder try to find the link to username accounts
+
+![](img/thm_advent/20.png)
+
+![](img/thm_advent/21.png)
+
+We got the username 
+
+Lets checkout the twitter account with the found username
+
+![](img/thm_advent/22.png)
+
+
+We get the answers to the first three questions :)
+
+now lets go to the wordpress site linked in the description
+
+There was a mention of wayback machine in the hints section lets look at the results of wayback machine
+
+![](img/thm_advent/23.png)
+
+
+lets check the oldest snapshot of the website we get the answers to other to question by viewing the oldest version of this website
+
+## Day6(Task 11)
+We are given a pcap file and asked some questions about the data in the pcap 
+
+### ques 1
+
+here on following through the udp  streams we get a a string that seems to encoded so we decode it to get the answer
+
+![](img/thm_advent/24.png)
+
+![](img/thm_advent/25.png)
+
+
+### ques 2
+
+Looking through the http request we see that there is a zip file and a jpeg image so we export them from wireshark
+ 
+![](img/thm_advent/26.png)
+
+We can use **steghide** with empty password to get the data from jpeg file
+
+### ques 3
+
+we can use **John** to crack the password of zip file 
+
