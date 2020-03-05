@@ -183,8 +183,13 @@ Looking through the http request we see that there is a zip file and a jpeg imag
 ![](img/thm_advent/26.png)
 
 We can use **steghide** with empty password to get the data from jpeg file
-
+```bash
+steghide extract -sf TryHackMe.jpeg
+```
 ### ques 3
 
 we can use **John** to crack the password of zip file 
-
+```bash
+zip2john christmaslists.zip > hash
+john hash
+```
