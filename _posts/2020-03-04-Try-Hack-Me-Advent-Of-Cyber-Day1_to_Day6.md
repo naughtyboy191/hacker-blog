@@ -52,5 +52,67 @@ now entering the default creds
 
 And We have successfully completed the task :)
 
+## Day3(Task 8)
+This is a forensics challenge we have to basically just answer the questions on the site by looking at the pcap file
+### For ques 1
+
+![](img/thm_advent/8.png)
+
+###for ques 2
+
+![](img/thm_advent/9.png)
+
+###for ques 3
+we have to save the hash found in the output above and crack the hash with hashcat using rockyou.txt as given in the hint 
+
+![](img/thm_advent/10.png)
 
 
+One more Day complete :)
+
+## Day4(Task 9)
+
+This task is about basic understanding of linux and moving around in linux
+
+### ques 1
+to see number of visible files  **serioulsy :(**
+![](img/thm_advent/11.png)
+### ques 2
+use cat to see the contest *EzPz*
+![](img/thm_advent/12.png)
+### ques 3
+```bash 
+grep -r password
+```
+using the command about the grep *recursively*
+this help us save time rather that perform grep on each file
+![](img/thm_advent/13.png)
+
+### ques 4
+```bash
+grep -r '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}'
+```
+here using a regex string we can easily carve out the IP address
+![](img/thm_advent/14.png)
+### ques 5
+```bash
+cat /etc/passwd |grep /bin/bash
+```
+using this we can see how many users have shell access to the machine
+![](img/thm_advent/15.png)
+### ques 6
+```bash
+sha1sum file8
+```
+using the **sha1sum** command to get the hash
+![](img/thm_advent/16.png)
+### ques 7
+Since we don't have permissions to read /etc/shadow file 
+so we find other files having string shadow in it and to which we have permission to read 
+```bash
+find / -name "*shadow*" 2>/dev/null
+```
+![](img/thm_advent/17.png)
+
+we get an interesting shadow.bak file which we can so reading it we find the mcsysadmin's password hash
+![](img/thm_advent/18.png)
