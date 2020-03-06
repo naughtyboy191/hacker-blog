@@ -8,7 +8,8 @@ I got the IP of box as **192.168.243.4**
 
 I thought that there may be a ftp service running as I read about it some of the other boxes writups
 And yeah there is a flag 
-flag-1
+
+**flag-1**
 ```
 FLAG{Whoa this is unexpected} - 10 points
 ```
@@ -80,7 +81,8 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 55.73 seconds
 ```
 We can see that ports 21,22,80,9090,13337,22222,60000 are open and we found another flag in the scan itself
-flag-2
+
+**flag-2**
 ```
 FLAG{TheyFoundMyBackDoorMorty} - 10 points
 ```
@@ -92,14 +94,17 @@ next I ran nikto to get the hidden directories in the IP address
 
 And yes there was a */passwords* directory present 
 checking it out gives the 3rd flag
+
 ![](img/vuln_rid-easy/3.png) 
 
 ![](img/vuln_rid-easy/4.png) 
-flag-2
+
+**flag-3**
 ```
 FLAG{Yeah d- just don't do it.} - 10 points
 ```
 ***points=30/130***
+
 Lets checkout the passwords.html file 
 nothing interesting it seems
 
@@ -108,37 +113,46 @@ nothing interesting it seems
 but its source has a password for us !!
 
 ![](img/vuln_rid-easy/6.png) 
+
 Lets checkout the *robots.txt* file ,root_shell is not even a bit useful but the tracertool-cgi is vulnerable to command injection 
 
 ![](img/vuln_rid-easy/7.png) 
+
 I found that using cat command showed a picture of cat it the system so i used head and tail to view /etc/passwd
 commands used
+
 ```
 "; head /etc/passwd;
 "; tail /etc/passwd;
 ```
+
 ![](img/vuln_rid-easy/9.png) 
+
 ![](img/vuln_rid-easy/10.png) 
+
 This shows us that there are 3 users with shell access
 *RickSanchez,Summer,Morty*
 And the password **winter** would most likely be the password for user *Summer*
 
-
 ![](img/vuln_rid-easy/11.png) 
+
 Bingo!
 We got another flag
-flag-4
+
+**flag-4**
 ```
 FLAG{Get off the high road Summer} - 10 points
 ```
 ***points=40/130***
-Checking out other users files 
+
+Checking out other users' files 
 For Morty we have a jpeg image and zip file 
 The zip is password protected my best guess was that the password was hidden in the jpg file since strings was not installed in the system I had to use the head command and I got the password as ***Meeseek***
 and there was another flag for us
 
 ![](img/vuln_rid-easy/12.png) 
-flag-5
+
+**flag-5**
 ```
 FLAG{131333} - 20 points
 ```
@@ -147,8 +161,10 @@ FLAG{131333} - 20 points
 Now it was time for *RickSanchez*
 there was a binary **safe** in the directory on running I found that the binary needed an argument
 based on prev flag I entered *131333* as the argument and ***BOOM*** I got another flag
+
 ![](img/vuln_rid-easy/13.png) 
-flag-6
+
+**flag-6**
 ```
 FLAG{And Awwaaaaayyyy we Go!} - 20 points
 ```
@@ -163,6 +179,7 @@ Now lets generate the bruteforce password list I used crunch
 After generating the wordlist i let it run with hydra and yup i got the pass
 
 ![](img/vuln_rid-easy/15.png) 
+
 the pass was **P7Curtains**
 
 On logging in I checked for root privileges 
@@ -170,7 +187,7 @@ and elevated to root easily and read the flag
 
 ![](img/vuln_rid-easy/16.png) 
 
-flag-7
+**flag-7**
 ```
 FLAG{Ionic Defibrilator} - 30 points
 ```
@@ -179,8 +196,10 @@ FLAG{Ionic Defibrilator} - 30 points
 Now lets focus on remaining open ports 
 On checking out 9090 
 it directly gave us the flag
+
 ![](img/vuln_rid-easy/8.png) 
-flag-8
+
+**flag-8**
 ```
 FLAG{THERE IS NO ZEUS,IN YOUR FACE!} - 10 points
 ```
@@ -190,7 +209,7 @@ And now the last port unchecked was 60000 on connecting to it using netcat gave 
 
 ![](img/vuln_rid-easy/17.png) 
 
-flag-7
+**flag-9**
 ```
 FLAG{Flip the pickle Morty!} - 10 points
 ```
