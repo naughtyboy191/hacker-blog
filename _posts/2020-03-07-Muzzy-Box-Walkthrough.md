@@ -3,7 +3,7 @@ So one time for one more box will complete the tryhackme advent of cyber in comi
 so I came across this beginner box on google so though let me walk you through it 
 the download link to the box is given below
 
-[box Download]<https://drive.google.com/file/d/1yFKVD_bDvzMp66ewOmyihXZ-_RZ8yGOs/view?usp=sharing>
+[box Download](https://drive.google.com/file/d/1yFKVD_bDvzMp66ewOmyihXZ-_RZ8yGOs/view?usp=sharing)
 
 Lets start !!
 
@@ -30,7 +30,7 @@ the idcard.png looked something like this
 
 after hours of enumeration and brainfuck(checking for hidden directries using gobuster and then trying nikto and many other recon tools I was so frustated that I went on to watch *Jumanji*)
 After a short break I was once again trying what to 
-Then I thought of editing the *idcard.png* file as specified on the website and also there was mention of ***nosql*** on the website ,so I went to nosql payload all things [link]<https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/NoSQL%20Injection/Intruder/NoSQL.txt> and copied a given command in the name tag 
+Then I thought of editing the *idcard.png* file as specified on the website and also there was mention of ***nosql*** on the website ,so I went to nosql payload all things [link](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/NoSQL%20Injection/Intruder/NoSQL.txt) and copied a given command in the name tag 
 
 And with the help of my great photo editing skills i got this id card
 
@@ -40,7 +40,7 @@ uploading it gave me somewhat of a flag so i]I left it there and moved on to nex
 
 ![](img/muzzybox/7.png)
 
-flag=**P!N_!$_123-456-789}**
+flag1-**P!N_!$_123-456-789}**
 I think that trying different payloads would give different results so you can try it !!!
 
 Now moving on to the next task 
@@ -67,7 +67,7 @@ on visiting the website we see that it prints anythin we supply to **name** para
 Event php too
 ![](img/muzzybox/11.png)
 
-so I searched for php injection tool on github and came across this [tool]<https://github.com/epinna/tplmap> 
+so I searched for php injection tool on github and came across this [tool](https://github.com/epinna/tplmap) 
 now I downloaded and set it up 
 and ran it and it showed that **name** parameter was vulnerable 
 
@@ -89,6 +89,6 @@ so we can make a file with name ls to read the content of final_flag.txt files w
 
 Final flag-**N$cTF{8!NG000!!!__Y0U_D!D_!T_80!!!}**
 
-So yup that was it !!
-I spent 9 hours on this box despite this being a beginner box but at the end
+So yup that was it !! <br>
+I spent 9 hours on this box despite this being a beginner box but at the end<br>
 **Enumeration is the Key**
