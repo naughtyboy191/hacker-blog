@@ -45,3 +45,17 @@ lets intercept the request with burp and use it with burp
 now using sqlmap gets us the pass
 
 ![](img/utctf20/8.png)
+
+## The Legend of Hackerman Pt. 1(Forensics),50 pts
+
+so the png file is corrupted so lets compare the corrupted png with another png file
+we see that there is error in magic bytes so lets correct it
+
+![](img/utctf20/9.png)
+
+![](img/utctf20/10.png)
+
+now we can easily view the image
+
+![](img/utctf20/11.png)
+
