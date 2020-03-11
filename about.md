@@ -7,7 +7,7 @@ title: About
 
 ## Cyber_Security_Enthusiast
 
-[gmail]<nirmitshah191@gmail.com> [linkedin]<https://www.linkedin.com/in/nirmit-shah-35822a146/> [github]<https://github.com/naughtyboy191>
+[gmail](nirmitshah191@gmail.com) [linkedin](https://www.linkedin.com/in/nirmit-shah-35822a146/) [github](https://github.com/naughtyboy191)
 
 ## SKILLS
 
