@@ -1,3 +1,8 @@
+---
+
+title: UTCTF20 Writup
+published: true
+---
 ## Observe Closely(Forensics),50 pts
 
 Running strings on the binary shows us a hidden_binary at the end of the png file 

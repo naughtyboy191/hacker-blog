@@ -1,3 +1,8 @@
+---
+title: Vulnhub Ridiculously Easy Walkthrough
+published: true
+
+---
 # So this is my first box so there may be some mistakes :)
 the link to the box 
 <https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/>

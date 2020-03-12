@@ -1,4 +1,7 @@
-
+---
+title: Try Hack Me Advent of Cyber Day1_to_Day6 Walkthrough
+published: true
+---
 So this is a website where you can get man challenges and box that you can root to improve your knowledge.
 Today I am going to solve the Advent_Of_Cyber  the 25 days challenge for complete beginners
 The link is given below

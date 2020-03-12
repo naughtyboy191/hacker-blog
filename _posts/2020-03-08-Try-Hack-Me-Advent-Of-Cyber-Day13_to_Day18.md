@@ -1,3 +1,7 @@
+---
+title: Try Hack Me Advent of Cyber Day13_to_Day18 Walkthrough
+published: true
+---
 So this is third part to the Advent_of_Cyber 25 part Series on <https://tryhackme.com>
 
 ## Day13(Task 18)

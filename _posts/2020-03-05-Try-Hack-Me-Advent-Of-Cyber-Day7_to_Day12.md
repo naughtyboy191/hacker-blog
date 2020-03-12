@@ -1,3 +1,7 @@
+---
+title: Try Hack Me Advent of Cyber Day7_to_Day12 Walkthrough
+published: true
+---
 So this is the continuation to the Advent_of_Cyber 25 part Series on <https://tryhackme.com>
 
 ## Day7(Task 12)

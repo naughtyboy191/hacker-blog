@@ -1,3 +1,8 @@
+---
+title: Try Hack Me OhSINT Walkthrough
+published: true
+
+---
 this is the writup for the [room](https://tryhackme.com/room/ohsint) on try hackme
 
 lets start !!

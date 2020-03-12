@@ -1,3 +1,8 @@
+---
+title: Try Hack Me BoilerCTF Walkthrough
+published: true
+
+---
 So I am back with another writup
 this is the [link](https://tryhackme.com/room/boilerctf2)
 

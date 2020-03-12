@@ -1,3 +1,8 @@
+---
+title: Muzzy Box Walkthrough
+
+published: true
+---
 So one time for one more box will complete the tryhackme advent of cyber in coming 2 days just bored of those challenges
 
 so I came across this beginner box on google so though let me walk you through it 

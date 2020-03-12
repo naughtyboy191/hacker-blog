@@ -1,3 +1,7 @@
+---
+title: Try Hack Me Advent of Cyber Day19_to_Day24 Walkthrough
+published: true
+---
 So this is last part of the writup of the 25-day series
 Hope you learnt something till now!!!
 
